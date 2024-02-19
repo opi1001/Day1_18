@@ -1,6 +1,14 @@
 ![Day_18](https://github.com/opi1001/Day1_18/assets/134625691/8e6184c4-0032-4235-8740-f4dd7789db86)
 
 
+"🚀 Just finished simple job mobile app templates in Flutter! 📱
+Crafting user-friendly designs for efficient job searching. 💼 
+Excited to offer customizable solutions for career platforms. 🌐
+From clean layouts to seamless navigation, these templates are ready to deploy.
+Ready for the next challenge in mobile app development. 
+Let's connect and explore more Flutter opportunities! 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
